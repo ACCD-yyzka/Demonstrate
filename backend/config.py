@@ -20,4 +20,6 @@ LLM_BASE_URL = "http://192.168.243.1:1234/v1"
 LLM_MODEL_NAME = "qwen3.5-0.8b"
 LLM_API_KEY = "dummy"
 
-#haihaihai
+#haihaihaihuwehruwehufhudfsdaafhdsshfufhu
+
+#123721841726835124
